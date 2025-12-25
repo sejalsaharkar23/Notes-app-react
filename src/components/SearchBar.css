@@ -1,0 +1,30 @@
+.search-box {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px;
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
+  margin-bottom: 20px;
+  width: 100%;          
+}
+
+.search-icon {
+  font-size: 18px;
+  color: #000;
+}
+
+.search-box input {
+  border: none;
+  outline: none;
+  width: 100%;          
+  font-size: 16px;
+  background: transparent;
+  color: #000;
+}
+
+
+.app.dark .search-box {
+  background: #ffffff;
+}
