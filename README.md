@@ -1,3 +1,4 @@
+
  Project Overview:
 
 This is a React-based Notes Application that allows users to create, edit, delete, and search notes.
@@ -43,3 +44,7 @@ Dark / Light theme toggle
 Persistent storage using browser localStorage
 Responsive and user-friendly UI
 Character limit validation for note content
+=======
+# Notes-app-react
+A React-based Notes Application that enables users to add, edit, delete, and search notes. Built using React functional components and hooks, with a responsive UI and local state management for smooth user experience.
+>>>>>>> b5edf7e32210552a5b88701def5d0f6dab68736d
