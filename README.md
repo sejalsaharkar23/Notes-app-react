@@ -1,4 +1,3 @@
-
  Project Overview:
 
 This is a React-based Notes Application that allows users to create, edit, delete, and search notes.
@@ -36,11 +35,11 @@ http://localhost:5173
 
 Features:
 
-Add new notes with title and content
-Edit existing notes
-Delete notes
-Search notes by title or content (case-insensitive)
-Dark / Light theme toggle
-Persistent storage using browser localStorage
-Responsive and user-friendly UI
-Character limit validation for note content
+-Add new notes with title and content
+-Edit existing notes
+-Delete notes
+-Search notes by title or content (case-insensitive)
+-Dark / Light theme toggle
+-Persistent storage using browser localStorage
+-Responsive and user-friendly UI
+-Character limit validation for note content
